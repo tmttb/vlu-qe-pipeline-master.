@@ -22,7 +22,7 @@ function login(username, password) {
   }
 
   // Kiểm tra thông tin đăng nhập đúng
-  if (username === 'admin' && password === '123') {
+  if (username === 'admin' && password === '9999') {
     return true;
   }
 
