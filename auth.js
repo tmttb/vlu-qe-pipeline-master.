@@ -2,7 +2,7 @@
  * Hàm xử lý đăng nhập người dùng
  * @param {string} username 
  * @param {string} password 
- * @returns {boolean}
+ * @returns đổi {boolean}
  */
 function login(username, password) {
   // Kiểm tra username rỗng
